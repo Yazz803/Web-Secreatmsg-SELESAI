@@ -1,6 +1,5 @@
 <?php
 $koneksi = mysqli_connect("localhost","root","","secreatmsg");
-// $koneksi = mysqli_connect("sql204.epizy.com", "epiz_31836249", "9o2gcW3NMD1XHH", "epiz_31836249_secreatmsg1");
 $kopirek = "Yazz";
 $update = "Update date : 6-Juni-2022";
 $peringatan = "Mohon maaf apabila websitenya lemot, jika tidak tampil apa-apa, bisa refresh aja halamannya. Terima kasih.";
